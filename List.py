@@ -11,7 +11,7 @@ listA = [5, 10, 15, 20, 25]
 print(listA)
 
 # if you want to check data type in listA we use type(listA) the out come will be list
-type(listA)
+print(type(listA))
 
 # if you want to access an item from the list we use []
 print(listA[0])
